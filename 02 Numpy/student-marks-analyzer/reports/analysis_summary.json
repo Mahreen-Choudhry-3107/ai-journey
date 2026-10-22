@@ -1,0 +1,122 @@
+{
+  "statistics": {
+    "student_averages": {
+      "Ali": 75.0,
+      "Sara": 92.0,
+      "Bilal": 61.6,
+      "Hira": 83.0,
+      "Usman": 47.6,
+      "Zainab": 92.0,
+      "Omar": 68.4,
+      "Ayesha": 80.8
+    },
+    "subject_averages": {
+      "Math": 75.375,
+      "Physics": 73.25,
+      "Chemistry": 72.875,
+      "English": 75.625,
+      "CS": 78.125
+    },
+    "subject_std": {
+      "Math": 15.442939325141442,
+      "Physics": 14.804982269492928,
+      "Chemistry": 15.02861853265296,
+      "English": 13.828751751333161,
+      "CS": 16.40455348371299
+    },
+    "overall_average": 75.05,
+    "overall_median": 78.0,
+    "overall_minimum": 40.0,
+    "overall_maximum": 98.0,
+    "hardest_subject": "Chemistry",
+    "easiest_subject": "CS"
+  },
+  "topper": {
+    "name": "Sara",
+    "average": 92.0
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "student": "Zainab",
+      "average": 92.0,
+      "grade": "A"
+    },
+    {
+      "rank": 2,
+      "student": "Sara",
+      "average": 92.0,
+      "grade": "A"
+    },
+    {
+      "rank": 3,
+      "student": "Hira",
+      "average": 83.0,
+      "grade": "B"
+    },
+    {
+      "rank": 4,
+      "student": "Ayesha",
+      "average": 80.8,
+      "grade": "B"
+    },
+    {
+      "rank": 5,
+      "student": "Ali",
+      "average": 75.0,
+      "grade": "B"
+    },
+    {
+      "rank": 6,
+      "student": "Omar",
+      "average": 68.4,
+      "grade": "C"
+    },
+    {
+      "rank": 7,
+      "student": "Bilal",
+      "average": 61.6,
+      "grade": "C"
+    },
+    {
+      "rank": 8,
+      "student": "Usman",
+      "average": 47.6,
+      "grade": "C"
+    }
+  ],
+  "weighted_scores": {
+    "Ali": 76.35,
+    "Sara": 92.9,
+    "Bilal": 60.35,
+    "Hira": 82.4,
+    "Usman": 47.1,
+    "Zainab": 92.1,
+    "Omar": 69.05,
+    "Ayesha": 80.1
+  },
+  "strongest_correlation_pair": {
+    "subject_1": "Math",
+    "subject_2": "CS",
+    "correlation": 0.9773
+  },
+  "simulation": {
+    "subject_averages": [
+      52.64,
+      48.7,
+      47.2,
+      49.45,
+      51.7
+    ],
+    "subject_standard_deviations": [
+      29.67103638230387,
+      29.889630308854606,
+      28.484381685407875,
+      27.311307182191047,
+      28.464890654980568
+    ],
+    "passing_students": 53,
+    "failing_students": 47,
+    "student_count": 100
+  }
+}
