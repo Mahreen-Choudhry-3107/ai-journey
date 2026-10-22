@@ -1,0 +1,501 @@
+show_id,type,title,country,date_added,release_year,rating,duration,duration_unit,genre,imdb_score,votes,year_added,revenue_billion_usd,subscribers_million
+s1,Movie,Title 1,United States,2018-03-24,2018,PG,97,min,Documentary,7.5,136986,2018,15.79,139.3
+s2,Movie,Title 2,Japan,2016-01-01,2014,PG,95,min,Comedy,8.5,55321,2016,8.83,93.8
+s3,Movie,Title 3,United States,2015-04-23,2013,TV-PG,110,min,Crime,6.3,12595,2015,6.78,74.8
+s4,TV Show,Title 4,United States,2018-01-25,2017,PG-13,1,Seasons,Crime,4.7,2779,2018,15.79,139.3
+s5,Movie,Title 5,United States,2014-06-04,2013,PG,79,min,Documentary,7.1,7408,2014,5.5,57.4
+s6,Movie,Title 6,Japan,2009-01-24,2008,TV-MA,129,min,Romance,6.6,23885,2009,,
+s7,Movie,Title 7,Japan,2009-11-20,2008,R,89,min,Comedy,6.9,5534,2009,,
+s8,Movie,Title 8,United States,2020-04-25,2017,R,87,min,Comedy,6.5,10699,2020,24.99,203.7
+s9,TV Show,Title 9,India,2023-08-21,2023,R,1,Seasons,Comedy,6.8,6190,2023,33.72,260.3
+s10,Movie,Title 10,South Korea,2021-12-22,2020,TV-PG,75,min,Thriller,7.0,2097,2021,29.7,221.8
+s11,Movie,Title 11,United Kingdom,2012-04-06,2009,TV-MA,103,min,Action,7.6,27055,2012,,
+s12,Movie,Title 12,United States,2018-06-27,2015,PG,93,min,Animation,5.2,9285,2018,15.79,139.3
+s13,Movie,Title 13,India,2013-02-07,2013,TV-14,121,min,Romance,7.2,2655,2013,4.37,44.4
+s14,TV Show,Title 14,India,2018-11-15,2017,PG-13,1,Seasons,Sci-Fi,6.4,9776,2018,15.79,139.3
+s15,Movie,Title 15,United Kingdom,2019-12-19,2019,TV-MA,120,min,Animation,7.8,8046,2019,20.16,167.1
+s16,TV Show,Title 16,United Kingdom,2015-02-25,2014,PG,1,Seasons,Action,7.2,71015,2015,6.78,74.8
+s17,TV Show,Title 17,Japan,2013-07-13,2013,TV-14,2,Seasons,Horror,6.6,5839,2013,4.37,44.4
+s18,TV Show,Title 18,Mexico,2012-01-22,2010,TV-PG,1,Seasons,Animation,7.7,112138,2012,,
+s19,Movie,Title 19,France,2017-06-04,2015,R,120,min,Documentary,7.2,10156,2017,11.69,110.6
+s20,Movie,Title 20,Pakistan,2018-12-09,2017,TV-14,130,min,Drama,6.8,144000,2018,15.79,139.3
+s21,TV Show,Title 21,Mexico,2004-09-20,2002,PG-13,5,Seasons,Documentary,7.7,24451,2004,,
+s22,Movie,Title 22,United Kingdom,2019-09-01,2014,TV-14,101,min,Action,4.6,16922,2019,20.16,167.1
+s23,Movie,Title 23,Germany,2017-05-08,2017,PG,129,min,Comedy,6.2,8348,2017,11.69,110.6
+s24,Movie,Title 24,United States,2015-08-27,2013,PG,118,min,Comedy,7.2,11664,2015,6.78,74.8
+s25,TV Show,Title 25,South Korea,2020-09-06,2018,R,3,Seasons,Action,6.9,70429,2020,24.99,203.7
+s26,Movie,Title 26,Pakistan,2014-09-25,2012,TV-PG,93,min,Horror,6.4,3803,2014,5.5,57.4
+s27,Movie,Title 27,India,2020-11-21,2017,R,105,min,Documentary,6.8,16622,2020,24.99,203.7
+s28,Movie,Title 28,United States,2010-04-03,2008,R,91,min,Sci-Fi,6.4,8410,2010,,
+s29,Movie,Title 29,Japan,2017-01-03,2015,TV-PG,108,min,Thriller,8.9,27159,2017,11.69,110.6
+s30,Movie,Title 30,Brazil,2017-06-03,2017,TV-14,98,min,Comedy,4.7,21336,2017,11.69,110.6
+s31,Movie,Title 31,United States,2019-03-24,2016,TV-14,149,min,Sci-Fi,6.6,31629,2019,20.16,167.1
+s32,Movie,Title 32,,2015-04-04,2015,PG,76,min,Sci-Fi,8.1,54302,2015,6.78,74.8
+s33,Movie,Title 33,India,2020-12-02,2019,TV-PG,81,min,Horror,8.3,4096,2020,24.99,203.7
+s34,Movie,Title 34,United States,2021-12-11,2018,PG,143,min,Comedy,5.7,11163,2021,29.7,221.8
+s35,Movie,Title 35,United Kingdom,2016-07-06,2016,R,89,min,Animation,5.1,23915,2016,8.83,93.8
+s36,Movie,Title 36,United Kingdom,2015-09-04,2010,PG,109,min,Comedy,5.8,141481,2015,6.78,74.8
+s37,Movie,Title 37,Pakistan,2014-04-06,2012,TV-MA,93,min,Drama,7.7,5028,2014,5.5,57.4
+s38,Movie,Title 38,Brazil,2017-03-13,2017,PG,126,min,Horror,5.0,27489,2017,11.69,110.6
+s39,TV Show,Title 39,United States,2018-12-24,2017,TV-14,5,Seasons,Sci-Fi,7.7,4992,2018,15.79,139.3
+s40,Movie,Title 40,United States,2010-04-02,2009,TV-14,110,min,Action,7.1,29750,2010,,
+s41,TV Show,Title 41,United States,2017-08-17,2017,TV-14,3,Seasons,Drama,6.1,29106,2017,11.69,110.6
+s42,Movie,Title 42,Mexico,2019-02-20,2017,PG,85,min,Comedy,8.9,38894,2019,20.16,167.1
+s43,Movie,Title 43,United States,2010-10-08,2010,TV-14,113,min,Horror,5.7,56641,2010,,
+s44,Movie,Title 44,India,2023-10-19,2021,TV-14,83,min,Comedy,7.9,36146,2023,33.72,260.3
+s45,Movie,Title 45,South Korea,2021-06-08,2020,R,137,min,Thriller,6.5,8915,2021,29.7,221.8
+s46,Movie,Title 46,United Kingdom,2014-02-01,2011,TV-MA,83,min,Documentary,6.7,33169,2014,5.5,57.4
+s47,Movie,Title 47,United States,2019-04-17,2017,R,116,min,Comedy,6.8,126025,2019,20.16,167.1
+s48,Movie,Title 48,,2015-06-10,2014,PG-13,154,min,Comedy,7.5,7874,2015,6.78,74.8
+s49,Movie,Title 49,South Korea,2012-11-17,2010,PG,109,min,Documentary,6.6,51885,2012,,
+s50,Movie,Title 50,Germany,2020-02-05,2018,R,98,min,Documentary,5.9,3576,2020,24.99,203.7
+s51,Movie,Title 51,United States,2013-05-20,2013,PG-13,117,min,Animation,7.0,4939,2013,4.37,44.4
+s52,TV Show,Title 52,United Kingdom,2016-05-28,2016,PG,2,Seasons,Documentary,7.2,7626,2016,8.83,93.8
+s53,Movie,Title 53,United States,2017-06-25,2016,PG-13,101,min,Documentary,5.5,33838,2017,11.69,110.6
+s54,Movie,Title 54,France,2019-09-23,2018,TV-MA,121,min,Action,8.0,4216,2019,20.16,167.1
+s55,Movie,Title 55,Germany,2011-12-05,2011,TV-14,110,min,Comedy,7.4,40866,2011,,
+s56,Movie,Title 56,Japan,2023-07-05,2023,PG,111,min,Crime,8.0,69203,2023,33.72,260.3
+s57,Movie,Title 57,Brazil,2023-04-22,2019,PG-13,93,min,Drama,7.6,8713,2023,33.72,260.3
+s58,Movie,Title 58,Brazil,2015-07-20,2014,TV-PG,90,min,Animation,6.9,354190,2015,6.78,74.8
+s59,Movie,Title 59,Pakistan,2006-03-14,2006,PG,113,min,Action,5.0,12502,2006,,
+s60,Movie,Title 60,Spain,2022-12-26,2021,PG-13,101,min,Horror,5.6,9336,2022,31.62,230.7
+s61,Movie,Title 61,India,2023-01-28,2019,TV-MA,85,min,Comedy,7.0,23264,2023,33.72,260.3
+s62,Movie,Title 62,India,2017-04-08,2012,PG,142,min,Sci-Fi,7.5,1938,2017,11.69,110.6
+s63,Movie,Title 63,United States,2017-02-25,2016,R,86,min,Romance,7.7,8509,2017,11.69,110.6
+s64,Movie,Title 64,South Korea,2017-09-11,2015,PG,110,min,Horror,7.8,5216,2017,11.69,110.6
+s65,Movie,Title 65,Japan,2015-05-02,2014,PG,90,min,Action,6.1,183238,2015,6.78,74.8
+s66,Movie,Title 66,India,2019-09-04,2018,TV-MA,74,min,Romance,7.8,281134,2019,20.16,167.1
+s67,TV Show,Title 67,,2021-09-22,2021,TV-PG,1,Seasons,Horror,5.1,12319,2021,29.7,221.8
+s68,TV Show,Title 68,,2023-11-11,2022,TV-14,2,Seasons,Romance,6.0,37518,2023,33.72,260.3
+s69,Movie,Title 69,Canada,2023-05-17,2019,R,81,min,Comedy,6.7,450,2023,33.72,260.3
+s70,Movie,Title 70,Canada,2011-09-05,2010,PG-13,94,min,Horror,5.4,156200,2011,,
+s71,Movie,Title 71,South Korea,2009-05-13,2008,TV-14,91,min,Action,6.9,124185,2009,,
+s72,TV Show,Title 72,France,2009-10-21,2008,R,1,Seasons,Horror,8.1,22298,2009,,
+s73,Movie,Title 73,United Kingdom,2012-12-06,2011,TV-PG,109,min,Thriller,7.0,10718,2012,,
+s74,Movie,Title 74,India,2018-04-22,2016,R,92,min,Crime,6.9,48754,2018,15.79,139.3
+s75,Movie,Title 75,United States,2023-04-16,2023,TV-14,75,min,Action,9.1,2116,2023,33.72,260.3
+s76,TV Show,Title 76,United States,2015-12-13,2015,TV-MA,2,Seasons,Crime,7.4,30859,2015,6.78,74.8
+s77,Movie,Title 77,Brazil,2012-02-25,2012,TV-MA,95,min,Drama,6.3,10859,2012,,
+s78,Movie,Title 78,United Kingdom,2023-09-08,2020,PG,107,min,Animation,6.0,64829,2023,33.72,260.3
+s79,Movie,Title 79,South Korea,2022-09-20,2017,R,116,min,Sci-Fi,7.5,8145,2022,31.62,230.7
+s80,TV Show,Title 80,India,2014-09-15,2013,PG-13,2,Seasons,Animation,7.6,45818,2014,5.5,57.4
+s81,TV Show,Title 81,Mexico,2016-05-25,2015,TV-14,2,Seasons,Thriller,6.9,102047,2016,8.83,93.8
+s82,Movie,Title 82,India,2013-12-10,2013,PG-13,110,min,Documentary,6.6,16962,2013,4.37,44.4
+s83,Movie,Title 83,United States,2022-03-08,2021,TV-MA,116,min,Animation,7.7,105511,2022,31.62,230.7
+s84,Movie,Title 84,United States,2019-07-11,2016,TV-14,113,min,Thriller,6.5,32500,2019,20.16,167.1
+s85,Movie,Title 85,Mexico,2015-07-25,2015,TV-14,101,min,Thriller,7.5,8251,2015,6.78,74.8
+s86,TV Show,Title 86,India,2023-01-12,2023,R,4,Seasons,Crime,5.7,5130,2023,33.72,260.3
+s87,TV Show,Title 87,United Kingdom,2023-12-18,2021,TV-14,4,Seasons,Horror,7.7,46580,2023,33.72,260.3
+s88,TV Show,Title 88,United Kingdom,2020-07-11,2019,TV-PG,1,Seasons,Horror,6.8,7504,2020,24.99,203.7
+s89,Movie,Title 89,Mexico,2017-03-20,2016,TV-14,86,min,Action,7.9,18463,2017,11.69,110.6
+s90,Movie,Title 90,Japan,2012-01-03,2011,TV-PG,93,min,Crime,7.3,11198,2012,,
+s91,Movie,Title 91,,2016-05-13,2011,R,104,min,Sci-Fi,7.1,11988,2016,8.83,93.8
+s92,Movie,Title 92,France,2014-07-09,2013,TV-MA,104,min,Romance,5.2,4068,2014,5.5,57.4
+s93,Movie,Title 93,United States,2012-09-02,2012,R,95,min,Sci-Fi,7.1,129369,2012,,
+s94,Movie,Title 94,France,2020-04-07,2020,PG,96,min,Drama,6.8,6614,2020,24.99,203.7
+s95,Movie,Title 95,United Kingdom,2015-02-19,2015,PG-13,94,min,Action,7.2,8162,2015,6.78,74.8
+s96,Movie,Title 96,United States,2019-10-24,2018,TV-PG,130,min,Romance,6.7,35669,2019,20.16,167.1
+s97,Movie,Title 97,Pakistan,2023-02-19,2019,PG,91,min,Action,7.0,22361,2023,33.72,260.3
+s98,TV Show,Title 98,India,2018-12-07,2016,PG,2,Seasons,Horror,5.9,22683,2018,15.79,139.3
+s99,Movie,Title 99,United States,2023-05-28,2018,TV-PG,129,min,Thriller,7.9,291798,2023,33.72,260.3
+s100,Movie,Title 100,France,2012-06-18,2012,TV-MA,117,min,Crime,7.0,304907,2012,,
+s101,Movie,Title 101,South Korea,2011-01-28,2011,TV-MA,83,min,Animation,6.1,1722,2011,,
+s102,TV Show,Title 102,South Korea,2013-08-23,2013,PG-13,1,Seasons,Romance,6.0,26382,2013,4.37,44.4
+s103,Movie,Title 103,Pakistan,2020-05-20,2017,TV-14,137,min,Animation,7.8,11022,2020,24.99,203.7
+s104,TV Show,Title 104,United States,2012-04-27,2011,PG,1,Seasons,Crime,7.3,4517,2012,,
+s105,Movie,Title 105,France,2023-10-20,2023,TV-PG,123,min,Thriller,6.3,2819,2023,33.72,260.3
+s106,Movie,Title 106,Mexico,2022-03-16,2022,PG-13,97,min,Sci-Fi,8.2,3250,2022,31.62,230.7
+s107,Movie,Title 107,United States,2014-10-23,2013,R,100,min,Romance,6.9,12834,2014,5.5,57.4
+s108,Movie,Title 108,United States,2021-12-14,2019,TV-MA,78,min,Thriller,6.6,25447,2021,29.7,221.8
+s109,Movie,Title 109,South Korea,2018-08-15,2018,PG,114,min,Sci-Fi,5.6,3494,2018,15.79,139.3
+s110,Movie,Title 110,Canada,2022-05-22,2022,TV-14,106,min,Horror,6.0,141687,2022,31.62,230.7
+s111,Movie,Title 111,India,2018-12-18,2016,R,123,min,Animation,6.9,261162,2018,15.79,139.3
+s112,Movie,Title 112,India,2023-04-04,2023,TV-PG,95,min,Documentary,7.9,47784,2023,33.72,260.3
+s113,Movie,Title 113,Pakistan,2022-12-06,2022,PG-13,80,min,Animation,7.6,78441,2022,31.62,230.7
+s114,Movie,Title 114,Canada,2008-09-20,2007,R,76,min,Documentary,4.6,15941,2008,,
+s115,TV Show,Title 115,India,2023-05-01,2019,TV-PG,1,Seasons,Thriller,8.5,24074,2023,33.72,260.3
+s116,Movie,Title 116,Pakistan,2023-09-10,2023,TV-PG,72,min,Drama,4.9,20606,2023,33.72,260.3
+s117,TV Show,Title 117,United States,2020-01-19,2017,R,4,Seasons,Sci-Fi,6.8,1842,2020,24.99,203.7
+s118,Movie,Title 118,United States,2016-01-09,2015,TV-MA,73,min,Romance,7.5,34197,2016,8.83,93.8
+s119,Movie,Title 119,United Kingdom,2011-10-21,2011,TV-PG,89,min,Horror,5.6,20430,2011,,
+s120,Movie,Title 120,,2020-02-08,2020,PG,80,min,Crime,7.4,11657,2020,24.99,203.7
+s121,Movie,Title 121,Japan,2013-10-08,2012,TV-14,97,min,Crime,5.7,11334,2013,4.37,44.4
+s122,Movie,Title 122,Mexico,2011-07-10,2010,TV-14,139,min,Documentary,6.8,9512,2011,,
+s123,Movie,Title 123,Germany,2019-04-21,2017,PG-13,97,min,Comedy,6.6,46027,2019,20.16,167.1
+s124,Movie,Title 124,United States,2019-09-03,2019,PG-13,89,min,Action,6.2,15834,2019,20.16,167.1
+s125,Movie,Title 125,United Kingdom,2005-01-08,2004,R,69,min,Crime,8.3,158571,2005,,
+s126,TV Show,Title 126,Canada,2017-05-26,2014,TV-PG,4,Seasons,Comedy,7.4,32000,2017,11.69,110.6
+s127,Movie,Title 127,India,2023-09-08,2023,TV-PG,122,min,Thriller,6.7,6997,2023,33.72,260.3
+s128,Movie,Title 128,United States,2008-03-26,2007,R,104,min,Action,6.0,3996,2008,,
+s129,Movie,Title 129,Germany,2017-08-04,2012,TV-MA,78,min,Crime,8.7,63447,2017,11.69,110.6
+s130,Movie,Title 130,Germany,2018-09-18,2015,TV-MA,129,min,Horror,6.9,7835,2018,15.79,139.3
+s131,Movie,Title 131,Brazil,2023-12-11,2023,TV-14,110,min,Drama,5.7,17528,2023,33.72,260.3
+s132,Movie,Title 132,Pakistan,2011-10-19,2011,PG,72,min,Thriller,7.8,217792,2011,,
+s133,TV Show,Title 133,United States,2012-03-16,2009,TV-14,3,Seasons,Crime,7.4,10089,2012,,
+s134,Movie,Title 134,Pakistan,2014-07-21,2013,TV-MA,88,min,Action,5.8,23347,2014,5.5,57.4
+s135,TV Show,Title 135,India,2012-02-28,2011,PG-13,1,Seasons,Romance,7.1,20737,2012,,
+s136,Movie,Title 136,United States,2017-07-27,2014,TV-14,81,min,Sci-Fi,6.2,54527,2017,11.69,110.6
+s137,Movie,Title 137,United States,2018-02-25,2018,TV-MA,80,min,Romance,6.9,54266,2018,15.79,139.3
+s138,TV Show,Title 138,United Kingdom,2012-01-07,2007,TV-14,6,Seasons,Animation,7.4,9945,2012,,
+s139,Movie,Title 139,South Korea,2023-01-07,2018,R,84,min,Sci-Fi,4.8,3124,2023,33.72,260.3
+s140,Movie,Title 140,Brazil,2017-08-04,2016,PG,105,min,Sci-Fi,5.8,47396,2017,11.69,110.6
+s141,TV Show,Title 141,India,2009-01-18,2007,TV-MA,3,Seasons,Action,6.7,5150,2009,,
+s142,Movie,Title 142,United Kingdom,2017-02-21,2012,PG-13,100,min,Comedy,5.9,13884,2017,11.69,110.6
+s143,Movie,Title 143,United Kingdom,2023-05-14,2021,TV-MA,88,min,Documentary,7.7,5677,2023,33.72,260.3
+s144,TV Show,Title 144,India,2018-10-17,2018,TV-PG,2,Seasons,Action,8.4,1134,2018,15.79,139.3
+s145,TV Show,Title 145,India,2017-09-09,2012,PG,1,Seasons,Horror,7.4,17263,2017,11.69,110.6
+s146,Movie,Title 146,Japan,2018-11-16,2017,PG-13,87,min,Crime,6.9,18273,2018,15.79,139.3
+s147,Movie,Title 147,India,2022-09-13,2021,TV-MA,105,min,Romance,7.2,13436,2022,31.62,230.7
+s148,TV Show,Title 148,Japan,2018-04-28,2013,TV-MA,1,Seasons,Thriller,6.3,35360,2018,15.79,139.3
+s149,Movie,Title 149,Canada,2016-07-13,2013,TV-PG,105,min,Sci-Fi,9.1,62651,2016,8.83,93.8
+s150,TV Show,Title 150,Pakistan,2017-03-17,2014,TV-14,6,Seasons,Sci-Fi,8.1,13498,2017,11.69,110.6
+s151,Movie,Title 151,United States,2005-08-01,2005,TV-PG,79,min,Sci-Fi,4.7,14446,2005,,
+s152,Movie,Title 152,United States,2021-05-11,2016,TV-14,133,min,Action,7.2,16934,2021,29.7,221.8
+s153,Movie,Title 153,Mexico,2023-11-28,2020,TV-14,60,min,Comedy,7.1,55549,2023,33.72,260.3
+s154,Movie,Title 154,Brazil,2009-01-20,2008,PG,122,min,Sci-Fi,7.2,13381,2009,,
+s155,Movie,Title 155,Pakistan,2022-12-03,2019,TV-MA,145,min,Documentary,7.0,29669,2022,31.62,230.7
+s156,TV Show,Title 156,United Kingdom,2018-12-10,2013,PG,2,Seasons,Comedy,5.9,59659,2018,15.79,139.3
+s157,Movie,Title 157,United States,2016-06-14,2011,PG-13,101,min,Drama,6.3,39135,2016,8.83,93.8
+s158,Movie,Title 158,Canada,2018-03-06,2017,PG-13,120,min,Crime,6.2,15933,2018,15.79,139.3
+s159,Movie,Title 159,South Korea,2016-04-16,2011,TV-14,91,min,Horror,7.2,54632,2016,8.83,93.8
+s160,Movie,Title 160,United Kingdom,2012-11-01,2011,TV-MA,117,min,Documentary,8.3,36174,2012,,
+s161,TV Show,Title 161,United Kingdom,2023-06-19,2023,R,2,Seasons,Comedy,5.9,4946,2023,33.72,260.3
+s162,Movie,Title 162,United Kingdom,2008-05-07,2007,TV-MA,129,min,Documentary,7.5,20605,2008,,
+s163,TV Show,Title 163,India,2017-05-23,2017,R,1,Seasons,Crime,5.6,414530,2017,11.69,110.6
+s164,Movie,Title 164,United States,2021-10-28,2016,TV-PG,102,min,Horror,7.6,39230,2021,29.7,221.8
+s165,TV Show,Title 165,Mexico,2017-05-25,2017,PG-13,5,Seasons,Sci-Fi,5.9,38783,2017,11.69,110.6
+s166,Movie,Title 166,South Korea,2023-10-09,2023,TV-PG,126,min,Thriller,8.6,11926,2023,33.72,260.3
+s167,TV Show,Title 167,South Korea,2016-11-21,2011,PG,2,Seasons,Action,6.7,23549,2016,8.83,93.8
+s168,Movie,Title 168,Japan,2022-12-05,2021,PG,66,min,Drama,8.5,18222,2022,31.62,230.7
+s169,TV Show,Title 169,,2014-09-12,2013,TV-14,3,Seasons,Action,5.7,3023,2014,5.5,57.4
+s170,Movie,Title 170,United States,2021-08-26,2020,R,101,min,Action,5.4,4655,2021,29.7,221.8
+s171,TV Show,Title 171,Pakistan,2015-03-25,2014,PG-13,3,Seasons,Sci-Fi,8.6,16130,2015,6.78,74.8
+s172,TV Show,Title 172,Pakistan,2011-09-12,2008,PG,2,Seasons,Horror,6.5,15878,2011,,
+s173,TV Show,Title 173,United Kingdom,2002-11-24,2002,TV-PG,1,Seasons,Comedy,6.7,16695,2002,,
+s174,Movie,Title 174,United States,2020-04-16,2019,PG,136,min,Romance,8.0,15951,2020,24.99,203.7
+s175,Movie,Title 175,Germany,2012-04-21,2010,PG,151,min,Romance,6.9,22397,2012,,
+s176,Movie,Title 176,South Korea,2016-02-05,2015,PG,103,min,Documentary,6.6,11065,2016,8.83,93.8
+s177,TV Show,Title 177,United States,2014-09-05,2013,TV-MA,6,Seasons,Comedy,6.8,11474,2014,5.5,57.4
+s178,Movie,Title 178,India,2015-12-24,2012,PG-13,102,min,Animation,6.5,133892,2015,6.78,74.8
+s179,TV Show,Title 179,South Korea,2005-05-02,2002,TV-PG,1,Seasons,Sci-Fi,8.0,98253,2005,,
+s180,Movie,Title 180,Pakistan,2006-06-04,2005,TV-PG,93,min,Sci-Fi,6.4,4068,2006,,
+s181,Movie,Title 181,United States,2015-05-07,2012,PG,77,min,Romance,8.7,67698,2015,6.78,74.8
+s182,TV Show,Title 182,South Korea,2023-10-01,2022,PG,2,Seasons,Thriller,7.6,5682,2023,33.72,260.3
+s183,TV Show,Title 183,United States,2013-09-07,2013,TV-14,6,Seasons,Crime,7.3,5081,2013,4.37,44.4
+s184,Movie,Title 184,India,2023-03-26,2019,TV-14,95,min,Thriller,6.4,51696,2023,33.72,260.3
+s185,Movie,Title 185,Pakistan,2023-09-09,2018,PG-13,92,min,Action,8.1,6019,2023,33.72,260.3
+s186,Movie,Title 186,United States,2023-06-26,2019,PG-13,111,min,Drama,6.5,32576,2023,33.72,260.3
+s187,Movie,Title 187,United States,2009-03-24,2009,TV-MA,118,min,Action,6.6,11763,2009,,
+s188,Movie,Title 188,United Kingdom,2023-06-17,2021,TV-14,85,min,Comedy,5.3,3401,2023,33.72,260.3
+s189,Movie,Title 189,Germany,2021-01-24,2019,TV-PG,74,min,Thriller,8.7,1811,2021,29.7,221.8
+s190,Movie,Title 190,United States,2023-08-28,2023,TV-MA,104,min,Drama,6.7,11454,2023,33.72,260.3
+s191,Movie,Title 191,Canada,2017-08-03,2017,PG,99,min,Sci-Fi,8.0,25262,2017,11.69,110.6
+s192,Movie,Title 192,United States,2016-10-21,2016,TV-14,92,min,Comedy,6.7,31868,2016,8.83,93.8
+s193,Movie,Title 193,Pakistan,2008-09-10,2007,TV-MA,73,min,Horror,7.6,27039,2008,,
+s194,Movie,Title 194,Spain,2016-02-28,2015,TV-PG,100,min,Comedy,7.2,11525,2016,8.83,93.8
+s195,Movie,Title 195,Canada,2017-04-14,2012,TV-MA,103,min,Animation,5.7,35950,2017,11.69,110.6
+s196,TV Show,Title 196,India,2008-12-04,2007,R,1,Seasons,Sci-Fi,7.9,38836,2008,,
+s197,Movie,Title 197,India,2020-03-22,2017,TV-MA,119,min,Documentary,8.6,74402,2020,24.99,203.7
+s198,Movie,Title 198,United States,2011-02-24,2006,TV-PG,74,min,Comedy,6.1,22727,2011,,
+s199,Movie,Title 199,United States,2018-09-18,2018,R,85,min,Animation,7.0,8897,2018,15.79,139.3
+s200,Movie,Title 200,Brazil,2013-07-28,2012,TV-PG,71,min,Romance,5.8,4350,2013,4.37,44.4
+s201,Movie,Title 201,India,2012-02-19,2011,TV-14,121,min,Crime,5.8,518584,2012,,
+s202,Movie,Title 202,United States,2021-02-12,2018,TV-14,103,min,Sci-Fi,5.9,51040,2021,29.7,221.8
+s203,Movie,Title 203,Japan,2018-07-28,2013,TV-14,102,min,Documentary,9.5,19628,2018,15.79,139.3
+s204,TV Show,Title 204,United States,2023-11-27,2021,TV-PG,2,Seasons,Animation,6.0,21120,2023,33.72,260.3
+s205,Movie,Title 205,Canada,2023-05-11,2023,R,87,min,Documentary,8.8,51498,2023,33.72,260.3
+s206,Movie,Title 206,Japan,2018-07-03,2013,PG-13,112,min,Action,7.9,46451,2018,15.79,139.3
+s207,TV Show,Title 207,United States,2008-07-15,2008,R,1,Seasons,Animation,6.0,16366,2008,,
+s208,Movie,Title 208,France,2016-10-20,2015,PG,112,min,Romance,7.0,4436,2016,8.83,93.8
+s209,TV Show,Title 209,United States,2017-02-09,2017,TV-MA,1,Seasons,Crime,7.5,43120,2017,11.69,110.6
+s210,Movie,Title 210,United Kingdom,2022-05-07,2021,TV-14,116,min,Crime,7.3,20247,2022,31.62,230.7
+s211,Movie,Title 211,United States,2008-11-19,2007,TV-MA,108,min,Comedy,7.0,30512,2008,,
+s212,Movie,Title 212,United States,2010-10-02,2009,PG,78,min,Drama,8.0,21005,2010,,
+s213,Movie,Title 213,France,2019-05-11,2019,PG,100,min,Action,6.8,67910,2019,20.16,167.1
+s214,Movie,Title 214,United States,2016-07-18,2013,TV-PG,101,min,Horror,6.3,13076,2016,8.83,93.8
+s215,Movie,Title 215,United States,2016-12-02,2014,TV-MA,104,min,Romance,6.3,99399,2016,8.83,93.8
+s216,Movie,Title 216,Japan,2011-10-13,2011,TV-PG,96,min,Romance,6.3,125038,2011,,
+s217,Movie,Title 217,India,2017-06-06,2016,TV-14,120,min,Comedy,5.2,30347,2017,11.69,110.6
+s218,Movie,Title 218,United States,2023-02-08,2020,TV-MA,101,min,Romance,8.0,11840,2023,33.72,260.3
+s219,Movie,Title 219,India,2023-05-24,2023,R,145,min,Comedy,6.4,12905,2023,33.72,260.3
+s220,Movie,Title 220,United States,2023-11-04,2023,TV-14,131,min,Action,6.2,13303,2023,33.72,260.3
+s221,Movie,Title 221,India,2019-11-27,2014,PG-13,73,min,Romance,5.8,6601,2019,20.16,167.1
+s222,Movie,Title 222,United States,2012-10-05,2012,TV-PG,99,min,Documentary,7.1,141577,2012,,
+s223,Movie,Title 223,United Kingdom,2016-10-25,2011,TV-14,119,min,Sci-Fi,6.6,20757,2016,8.83,93.8
+s224,Movie,Title 224,India,2021-11-11,2019,PG-13,77,min,Crime,7.2,26896,2021,29.7,221.8
+s225,Movie,Title 225,South Korea,2019-05-19,2018,PG,105,min,Sci-Fi,9.5,10246,2019,20.16,167.1
+s226,Movie,Title 226,United Kingdom,2013-01-02,2013,R,87,min,Documentary,6.2,10251,2013,4.37,44.4
+s227,TV Show,Title 227,South Korea,2021-09-13,2021,TV-MA,2,Seasons,Comedy,8.4,11104,2021,29.7,221.8
+s228,Movie,Title 228,United Kingdom,2016-10-21,2011,PG-13,109,min,Drama,6.2,47075,2016,8.83,93.8
+s229,Movie,Title 229,United States,2018-01-15,2017,PG,69,min,Animation,8.5,190052,2018,15.79,139.3
+s230,TV Show,Title 230,United Kingdom,2017-03-02,2012,PG-13,1,Seasons,Comedy,6.4,31040,2017,11.69,110.6
+s231,TV Show,Title 231,United States,2018-06-10,2017,TV-MA,2,Seasons,Crime,7.5,245793,2018,15.79,139.3
+s232,Movie,Title 232,United States,2016-11-21,2015,R,84,min,Crime,5.3,9162,2016,8.83,93.8
+s233,Movie,Title 233,South Korea,2015-05-09,2015,TV-PG,135,min,Animation,6.2,28811,2015,6.78,74.8
+s234,TV Show,Title 234,United States,2017-11-05,2015,R,4,Seasons,Romance,8.1,456945,2017,11.69,110.6
+s235,Movie,Title 235,United States,2016-12-03,2013,R,90,min,Horror,7.9,49924,2016,8.83,93.8
+s236,Movie,Title 236,Spain,2023-11-23,2023,TV-PG,111,min,Romance,6.4,44747,2023,33.72,260.3
+s237,TV Show,Title 237,United Kingdom,2023-01-12,2021,R,1,Seasons,Horror,7.7,40486,2023,33.72,260.3
+s238,Movie,Title 238,Germany,2021-08-07,2021,PG-13,123,min,Romance,8.3,47975,2021,29.7,221.8
+s239,TV Show,Title 239,United Kingdom,2015-09-27,2015,TV-PG,1,Seasons,Comedy,7.0,93695,2015,6.78,74.8
+s240,TV Show,Title 240,United States,2011-07-05,2011,PG-13,2,Seasons,Crime,7.2,13738,2011,,
+s241,Movie,Title 241,Spain,2019-03-24,2016,TV-MA,125,min,Crime,7.0,23288,2019,20.16,167.1
+s242,Movie,Title 242,Pakistan,2010-10-10,2009,TV-PG,114,min,Thriller,7.5,295346,2010,,
+s243,TV Show,Title 243,Pakistan,2014-08-27,2014,PG-13,2,Seasons,Documentary,7.0,29710,2014,5.5,57.4
+s244,Movie,Title 244,United Kingdom,2023-05-25,2023,TV-MA,98,min,Sci-Fi,7.1,45682,2023,33.72,260.3
+s245,Movie,Title 245,Spain,2017-10-05,2016,R,91,min,Action,7.0,79886,2017,11.69,110.6
+s246,Movie,Title 246,Japan,2011-02-23,2010,TV-14,102,min,Romance,6.0,92416,2011,,
+s247,TV Show,Title 247,United States,2009-09-05,2008,TV-MA,1,Seasons,Action,6.2,34636,2009,,
+s248,Movie,Title 248,Brazil,2023-01-14,2023,PG,98,min,Sci-Fi,6.2,210531,2023,33.72,260.3
+s249,Movie,Title 249,India,2009-02-12,2008,PG-13,60,min,Thriller,7.3,12058,2009,,
+s250,Movie,Title 250,,2010-03-02,2010,R,114,min,Romance,7.1,11193,2010,,
+s251,TV Show,Title 251,France,2010-08-15,2009,TV-14,2,Seasons,Action,7.8,48061,2010,,
+s252,Movie,Title 252,United States,2015-03-18,2015,TV-PG,136,min,Drama,5.6,3531,2015,6.78,74.8
+s253,Movie,Title 253,France,2013-04-10,2012,PG,99,min,Comedy,7.1,16490,2013,4.37,44.4
+s254,Movie,Title 254,United Kingdom,2018-02-27,2017,TV-MA,74,min,Crime,8.4,19958,2018,15.79,139.3
+s255,Movie,Title 255,Japan,2021-12-05,2021,R,106,min,Animation,7.3,43639,2021,29.7,221.8
+s256,Movie,Title 256,United States,2020-07-06,2018,TV-PG,112,min,Romance,8.3,27884,2020,24.99,203.7
+s257,Movie,Title 257,United States,2021-09-18,2019,TV-14,98,min,Romance,8.4,9782,2021,29.7,221.8
+s258,TV Show,Title 258,Brazil,2023-01-21,2023,TV-MA,2,Seasons,Horror,6.8,3956,2023,33.72,260.3
+s259,TV Show,Title 259,France,2017-06-08,2016,TV-PG,3,Seasons,Romance,6.1,60401,2017,11.69,110.6
+s260,Movie,Title 260,Canada,2012-06-05,2012,PG,91,min,Crime,4.7,12800,2012,,
+s261,Movie,Title 261,Mexico,2004-11-15,2003,TV-PG,68,min,Action,7.6,56554,2004,,
+s262,Movie,Title 262,United States,2018-08-02,2018,R,80,min,Action,6.7,21931,2018,15.79,139.3
+s263,Movie,Title 263,Brazil,2015-06-10,2010,TV-14,130,min,Thriller,7.8,16896,2015,6.78,74.8
+s264,Movie,Title 264,United Kingdom,2021-01-25,2016,TV-PG,104,min,Animation,4.6,16372,2021,29.7,221.8
+s265,Movie,Title 265,Mexico,2013-06-09,2012,PG,79,min,Drama,6.5,190465,2013,4.37,44.4
+s266,TV Show,Title 266,Brazil,2020-07-11,2019,PG-13,4,Seasons,Sci-Fi,6.2,43787,2020,24.99,203.7
+s267,Movie,Title 267,Germany,2023-09-09,2022,PG,118,min,Romance,6.9,10134,2023,33.72,260.3
+s268,TV Show,Title 268,Japan,2019-06-04,2019,PG,1,Seasons,Action,7.2,64487,2019,20.16,167.1
+s269,Movie,Title 269,United Kingdom,2020-12-14,2019,PG-13,120,min,Documentary,6.2,107030,2020,24.99,203.7
+s270,Movie,Title 270,United States,2017-06-20,2016,TV-MA,141,min,Sci-Fi,6.0,176867,2017,11.69,110.6
+s271,Movie,Title 271,United States,2021-11-13,2016,R,86,min,Drama,6.3,14996,2021,29.7,221.8
+s272,Movie,Title 272,Pakistan,2021-03-28,2018,TV-14,110,min,Action,6.2,21392,2021,29.7,221.8
+s273,Movie,Title 273,United States,2023-04-25,2023,TV-PG,134,min,Drama,7.3,23054,2023,33.72,260.3
+s274,Movie,Title 274,United States,2017-03-22,2016,TV-MA,112,min,Crime,5.7,16173,2017,11.69,110.6
+s275,TV Show,Title 275,Japan,2008-09-12,2007,TV-MA,1,Seasons,Comedy,7.2,47888,2008,,
+s276,Movie,Title 276,Pakistan,2014-01-24,2013,PG-13,131,min,Thriller,5.5,3799,2014,5.5,57.4
+s277,Movie,Title 277,United States,2018-05-23,2017,TV-MA,120,min,Animation,8.7,12699,2018,15.79,139.3
+s278,Movie,Title 278,Canada,2023-08-07,2021,PG,99,min,Documentary,6.6,63601,2023,33.72,260.3
+s279,Movie,Title 279,United States,2019-12-15,2019,PG,68,min,Sci-Fi,8.4,115394,2019,20.16,167.1
+s280,TV Show,Title 280,Canada,2017-09-18,2012,R,6,Seasons,Romance,7.2,39848,2017,11.69,110.6
+s281,TV Show,Title 281,Spain,2022-09-08,2017,PG,1,Seasons,Action,6.2,9838,2022,31.62,230.7
+s282,TV Show,Title 282,United States,2020-09-19,2015,R,1,Seasons,Sci-Fi,8.1,42290,2020,24.99,203.7
+s283,Movie,Title 283,South Korea,2016-02-03,2014,R,115,min,Action,3.7,87423,2016,8.83,93.8
+s284,Movie,Title 284,United Kingdom,2010-07-27,2007,TV-14,92,min,Sci-Fi,5.6,4658,2010,,
+s285,Movie,Title 285,United Kingdom,2022-11-17,2021,R,90,min,Comedy,7.2,20820,2022,31.62,230.7
+s286,Movie,Title 286,South Korea,2023-03-25,2018,PG-13,101,min,Animation,5.4,72803,2023,33.72,260.3
+s287,Movie,Title 287,Mexico,2018-09-05,2013,R,68,min,Drama,6.3,133373,2018,15.79,139.3
+s288,Movie,Title 288,India,2021-09-10,2020,PG,93,min,Thriller,6.4,14973,2021,29.7,221.8
+s289,Movie,Title 289,United States,2023-11-10,2023,TV-14,107,min,Animation,7.3,75836,2023,33.72,260.3
+s290,Movie,Title 290,Japan,2019-10-05,2017,PG-13,94,min,Action,6.6,20212,2019,20.16,167.1
+s291,Movie,Title 291,India,2018-10-02,2015,PG,114,min,Crime,6.9,53059,2018,15.79,139.3
+s292,Movie,Title 292,United States,2018-04-25,2015,TV-14,101,min,Crime,4.6,66144,2018,15.79,139.3
+s293,Movie,Title 293,United Kingdom,2020-11-18,2017,R,119,min,Drama,3.6,269965,2020,24.99,203.7
+s294,Movie,Title 294,United States,2016-11-13,2015,R,122,min,Sci-Fi,5.7,45950,2016,8.83,93.8
+s295,Movie,Title 295,United States,2013-07-16,2010,TV-MA,87,min,Drama,8.9,17521,2013,4.37,44.4
+s296,Movie,Title 296,India,2019-12-11,2017,TV-PG,117,min,Action,7.3,26383,2019,20.16,167.1
+s297,TV Show,Title 297,France,2018-09-18,2017,PG,6,Seasons,Action,9.4,20554,2018,15.79,139.3
+s298,Movie,Title 298,United States,2018-04-05,2017,PG,121,min,Comedy,8.0,91531,2018,15.79,139.3
+s299,Movie,Title 299,India,2020-03-27,2019,R,77,min,Crime,8.6,5565,2020,24.99,203.7
+s300,TV Show,Title 300,United Kingdom,2020-09-15,2017,TV-MA,1,Seasons,Action,6.0,20394,2020,24.99,203.7
+s301,TV Show,Title 301,United Kingdom,2018-04-07,2017,TV-14,1,Seasons,Horror,7.2,36545,2018,15.79,139.3
+s302,Movie,Title 302,United Kingdom,2023-11-22,2023,TV-MA,109,min,Documentary,6.5,70045,2023,33.72,260.3
+s303,Movie,Title 303,India,2021-05-24,2021,R,75,min,Comedy,7.5,51093,2021,29.7,221.8
+s304,TV Show,Title 304,Japan,2015-04-12,2014,TV-14,1,Seasons,Drama,8.3,18396,2015,6.78,74.8
+s305,Movie,Title 305,,2017-09-09,2016,TV-14,96,min,Animation,6.8,5910,2017,11.69,110.6
+s306,Movie,Title 306,,2008-07-12,2008,R,131,min,Action,5.9,6703,2008,,
+s307,Movie,Title 307,United States,2006-09-13,2005,TV-14,87,min,Action,5.3,158010,2006,,
+s308,Movie,Title 308,Canada,2021-08-17,2021,TV-MA,86,min,Action,9.3,71547,2021,29.7,221.8
+s309,Movie,Title 309,India,2016-10-11,2014,PG-13,60,min,Action,9.3,4156,2016,8.83,93.8
+s310,Movie,Title 310,Japan,2009-09-27,2007,TV-14,120,min,Documentary,9.5,115974,2009,,
+s311,Movie,Title 311,,2021-01-12,2018,R,111,min,Crime,7.7,54759,2021,29.7,221.8
+s312,Movie,Title 312,India,2018-12-28,2017,TV-PG,102,min,Crime,6.7,8912,2018,15.79,139.3
+s313,Movie,Title 313,United States,2016-11-26,2014,TV-14,66,min,Sci-Fi,6.7,6725,2016,8.83,93.8
+s314,Movie,Title 314,Japan,2013-03-17,2010,TV-PG,103,min,Drama,8.3,66302,2013,4.37,44.4
+s315,TV Show,Title 315,Spain,2013-04-02,2008,TV-14,4,Seasons,Action,5.7,68113,2013,4.37,44.4
+s316,TV Show,Title 316,India,2011-03-14,2011,TV-PG,1,Seasons,Sci-Fi,6.6,42619,2011,,
+s317,Movie,Title 317,Germany,2013-12-24,2011,PG,102,min,Crime,5.3,10703,2013,4.37,44.4
+s318,TV Show,Title 318,Pakistan,2019-08-17,2017,TV-MA,1,Seasons,Romance,5.0,37367,2019,20.16,167.1
+s319,Movie,Title 319,Germany,2015-06-18,2015,R,111,min,Sci-Fi,7.0,113206,2015,6.78,74.8
+s320,Movie,Title 320,South Korea,2021-04-08,2016,R,91,min,Documentary,6.9,42275,2021,29.7,221.8
+s321,Movie,Title 321,France,2016-12-07,2016,TV-PG,100,min,Documentary,6.0,9941,2016,8.83,93.8
+s322,TV Show,Title 322,Germany,2009-12-09,2008,R,2,Seasons,Animation,8.7,4951,2009,,
+s323,Movie,Title 323,,2015-07-27,2012,R,85,min,Animation,7.8,15460,2015,6.78,74.8
+s324,TV Show,Title 324,United States,2023-12-03,2022,R,1,Seasons,Drama,6.1,30785,2023,33.72,260.3
+s325,TV Show,Title 325,United States,2014-09-09,2011,TV-14,1,Seasons,Sci-Fi,9.2,5296,2014,5.5,57.4
+s326,Movie,Title 326,South Korea,2017-10-08,2017,PG-13,112,min,Comedy,7.3,17635,2017,11.69,110.6
+s327,Movie,Title 327,South Korea,2017-01-04,2015,TV-MA,100,min,Thriller,6.6,70028,2017,11.69,110.6
+s328,Movie,Title 328,Canada,2023-03-01,2023,TV-14,88,min,Comedy,5.3,19812,2023,33.72,260.3
+s329,TV Show,Title 329,United Kingdom,2023-04-25,2023,R,1,Seasons,Sci-Fi,5.9,157462,2023,33.72,260.3
+s330,Movie,Title 330,Brazil,2023-02-21,2023,TV-14,88,min,Drama,7.4,155449,2023,33.72,260.3
+s331,Movie,Title 331,Germany,2017-03-14,2014,PG-13,95,min,Drama,6.2,6517,2017,11.69,110.6
+s332,TV Show,Title 332,France,2012-03-24,2012,R,6,Seasons,Horror,5.5,22946,2012,,
+s333,TV Show,Title 333,United States,2012-06-10,2012,TV-MA,1,Seasons,Crime,7.1,3404,2012,,
+s334,TV Show,Title 334,Mexico,2019-08-09,2017,PG-13,2,Seasons,Action,7.7,2013,2019,20.16,167.1
+s335,TV Show,Title 335,South Korea,2018-12-06,2017,PG,1,Seasons,Sci-Fi,8.2,5158,2018,15.79,139.3
+s336,TV Show,Title 336,United States,2023-11-13,2023,TV-MA,1,Seasons,Thriller,7.3,9452,2023,33.72,260.3
+s337,Movie,Title 337,South Korea,2015-03-05,2015,TV-MA,111,min,Horror,6.9,42045,2015,6.78,74.8
+s338,Movie,Title 338,United States,2011-04-15,2011,R,103,min,Drama,5.2,19274,2011,,
+s339,TV Show,Title 339,United States,2012-11-12,2011,TV-PG,2,Seasons,Crime,6.0,97082,2012,,
+s340,Movie,Title 340,United Kingdom,2023-03-13,2021,TV-PG,112,min,Comedy,5.6,15067,2023,33.72,260.3
+s341,Movie,Title 341,,2023-11-10,2022,R,102,min,Documentary,9.4,35312,2023,33.72,260.3
+s342,Movie,Title 342,United Kingdom,2016-08-24,2016,TV-14,93,min,Action,6.9,18343,2016,8.83,93.8
+s343,Movie,Title 343,Germany,2022-09-26,2019,TV-PG,119,min,Animation,5.9,4458,2022,31.62,230.7
+s344,TV Show,Title 344,Brazil,2011-02-17,2006,TV-MA,1,Seasons,Crime,7.4,5860,2011,,
+s345,Movie,Title 345,Germany,2006-02-02,2005,TV-14,107,min,Comedy,9.5,21866,2006,,
+s346,TV Show,Title 346,United States,2020-09-15,2020,PG,2,Seasons,Action,6.9,19561,2020,24.99,203.7
+s347,Movie,Title 347,United Kingdom,2023-09-15,2020,PG,94,min,Crime,7.1,32404,2023,33.72,260.3
+s348,Movie,Title 348,United Kingdom,2014-01-18,2012,TV-MA,119,min,Horror,6.6,8893,2014,5.5,57.4
+s349,Movie,Title 349,India,2019-01-24,2018,PG-13,82,min,Drama,6.8,21786,2019,20.16,167.1
+s350,Movie,Title 350,India,2021-02-18,2021,PG,109,min,Horror,6.8,58766,2021,29.7,221.8
+s351,TV Show,Title 351,United States,2022-07-06,2022,PG-13,6,Seasons,Sci-Fi,7.4,22301,2022,31.62,230.7
+s352,TV Show,Title 352,India,2012-07-15,2009,TV-MA,2,Seasons,Horror,5.6,15271,2012,,
+s353,Movie,Title 353,United States,2015-06-04,2012,PG-13,96,min,Animation,6.9,41590,2015,6.78,74.8
+s354,TV Show,Title 354,Mexico,2016-01-10,2015,TV-MA,2,Seasons,Thriller,7.3,23798,2016,8.83,93.8
+s355,Movie,Title 355,United Kingdom,2008-04-08,2006,TV-MA,81,min,Horror,6.6,5158,2008,,
+s356,Movie,Title 356,Germany,2019-12-25,2018,PG,130,min,Thriller,8.1,17049,2019,20.16,167.1
+s357,Movie,Title 357,South Korea,2023-01-08,2023,PG-13,102,min,Horror,6.4,10550,2023,33.72,260.3
+s358,Movie,Title 358,United Kingdom,2016-11-23,2014,PG,92,min,Drama,7.0,26707,2016,8.83,93.8
+s359,Movie,Title 359,India,2016-09-07,2016,PG,108,min,Horror,8.1,68834,2016,8.83,93.8
+s360,Movie,Title 360,Spain,2009-12-19,2008,R,60,min,Thriller,7.8,4271,2009,,
+s361,Movie,Title 361,United States,2019-03-22,2014,TV-14,76,min,Romance,4.8,42182,2019,20.16,167.1
+s362,Movie,Title 362,United States,2020-10-24,2019,PG-13,88,min,Documentary,3.9,11435,2020,24.99,203.7
+s363,Movie,Title 363,United Kingdom,2018-06-21,2017,TV-PG,70,min,Animation,7.0,21625,2018,15.79,139.3
+s364,Movie,Title 364,Canada,2020-07-05,2018,R,102,min,Romance,5.7,92585,2020,24.99,203.7
+s365,Movie,Title 365,United Kingdom,2020-04-10,2015,TV-PG,99,min,Animation,5.8,12939,2020,24.99,203.7
+s366,Movie,Title 366,Japan,2012-07-18,2011,TV-14,96,min,Drama,8.7,4245,2012,,
+s367,Movie,Title 367,United States,2007-11-03,2007,TV-MA,129,min,Documentary,6.6,9868,2007,,
+s368,TV Show,Title 368,United States,2021-07-22,2021,TV-14,2,Seasons,Thriller,6.1,197049,2021,29.7,221.8
+s369,Movie,Title 369,United States,2023-10-24,2019,TV-PG,90,min,Comedy,9.2,10648,2023,33.72,260.3
+s370,Movie,Title 370,Mexico,2020-06-10,2019,PG,105,min,Thriller,8.2,143460,2020,24.99,203.7
+s371,Movie,Title 371,France,2016-08-08,2016,TV-PG,84,min,Comedy,7.3,9766,2016,8.83,93.8
+s372,Movie,Title 372,Germany,2023-09-11,2023,R,102,min,Horror,6.4,27491,2023,33.72,260.3
+s373,Movie,Title 373,India,2011-06-17,2009,TV-MA,80,min,Romance,8.1,10013,2011,,
+s374,Movie,Title 374,France,2015-06-07,2010,R,110,min,Sci-Fi,8.1,52195,2015,6.78,74.8
+s375,Movie,Title 375,Mexico,2020-12-05,2020,PG,84,min,Crime,5.2,133465,2020,24.99,203.7
+s376,Movie,Title 376,Canada,2016-05-05,2014,PG-13,94,min,Crime,8.3,42936,2016,8.83,93.8
+s377,Movie,Title 377,Mexico,2019-08-18,2018,TV-PG,143,min,Crime,6.1,67064,2019,20.16,167.1
+s378,TV Show,Title 378,Pakistan,2017-11-24,2016,TV-MA,1,Seasons,Sci-Fi,7.1,137883,2017,11.69,110.6
+s379,Movie,Title 379,United States,2021-12-18,2018,TV-MA,110,min,Romance,8.0,14215,2021,29.7,221.8
+s380,Movie,Title 380,United Kingdom,2013-02-27,2011,TV-PG,79,min,Drama,4.6,259743,2013,4.37,44.4
+s381,Movie,Title 381,United States,2010-11-08,2010,PG,95,min,Horror,6.5,31853,2010,,
+s382,TV Show,Title 382,India,2020-10-21,2020,TV-PG,1,Seasons,Sci-Fi,7.7,10941,2020,24.99,203.7
+s383,TV Show,Title 383,United States,2016-09-14,2015,PG,2,Seasons,Drama,7.1,16343,2016,8.83,93.8
+s384,Movie,Title 384,United Kingdom,2023-05-01,2023,TV-14,109,min,Documentary,7.6,48798,2023,33.72,260.3
+s385,TV Show,Title 385,United States,2023-02-17,2021,PG-13,1,Seasons,Action,7.0,4646,2023,33.72,260.3
+s386,Movie,Title 386,United States,2019-06-09,2017,TV-MA,86,min,Animation,6.2,44517,2019,20.16,167.1
+s387,Movie,Title 387,Japan,2023-12-08,2022,R,100,min,Sci-Fi,7.1,169847,2023,33.72,260.3
+s388,Movie,Title 388,South Korea,2022-11-25,2017,PG,152,min,Comedy,7.4,2662,2022,31.62,230.7
+s389,Movie,Title 389,Japan,2020-01-21,2019,PG,107,min,Horror,8.2,49405,2020,24.99,203.7
+s390,TV Show,Title 390,South Korea,2015-06-19,2015,PG,2,Seasons,Horror,5.5,17140,2015,6.78,74.8
+s391,TV Show,Title 391,United Kingdom,2011-01-03,2011,TV-PG,1,Seasons,Crime,6.2,44635,2011,,
+s392,TV Show,Title 392,United States,2023-06-01,2023,PG-13,2,Seasons,Drama,7.2,5244,2023,33.72,260.3
+s393,Movie,Title 393,Germany,2023-05-06,2018,TV-14,123,min,Horror,6.1,18754,2023,33.72,260.3
+s394,Movie,Title 394,South Korea,2021-09-11,2016,TV-MA,84,min,Horror,7.5,19050,2021,29.7,221.8
+s395,TV Show,Title 395,United Kingdom,2018-06-02,2018,PG,3,Seasons,Comedy,5.8,13030,2018,15.79,139.3
+s396,Movie,Title 396,India,2023-10-20,2019,TV-MA,92,min,Comedy,8.7,13635,2023,33.72,260.3
+s397,TV Show,Title 397,France,2018-08-16,2017,PG-13,1,Seasons,Documentary,7.8,4015,2018,15.79,139.3
+s398,Movie,Title 398,United States,2008-10-22,2007,TV-MA,69,min,Horror,8.2,11359,2008,,
+s399,Movie,Title 399,Spain,2023-12-03,2023,PG,88,min,Documentary,7.0,140158,2023,33.72,260.3
+s400,Movie,Title 400,Canada,2023-06-12,2023,PG,141,min,Action,8.1,75272,2023,33.72,260.3
+s401,Movie,Title 401,India,2019-05-04,2018,PG-13,115,min,Sci-Fi,6.2,8251,2019,20.16,167.1
+s402,Movie,Title 402,Japan,2016-09-14,2015,PG,96,min,Sci-Fi,6.3,50800,2016,8.83,93.8
+s403,Movie,Title 403,United States,2021-10-26,2020,R,101,min,Animation,8.4,5596,2021,29.7,221.8
+s404,TV Show,Title 404,France,2015-12-18,2015,PG-13,1,Seasons,Horror,6.0,2345,2015,6.78,74.8
+s405,Movie,Title 405,United States,2015-05-10,2015,R,97,min,Horror,8.5,46956,2015,6.78,74.8
+s406,Movie,Title 406,India,2010-07-10,2010,TV-MA,137,min,Action,8.1,44290,2010,,
+s407,TV Show,Title 407,Canada,2015-08-20,2014,TV-14,1,Seasons,Thriller,5.7,14091,2015,6.78,74.8
+s408,Movie,Title 408,India,2021-07-11,2021,TV-14,137,min,Action,8.5,12251,2021,29.7,221.8
+s409,Movie,Title 409,United Kingdom,2015-07-27,2010,TV-PG,102,min,Romance,4.9,32461,2015,6.78,74.8
+s410,TV Show,Title 410,Germany,2015-04-16,2015,R,1,Seasons,Crime,6.3,3249,2015,6.78,74.8
+s411,Movie,Title 411,United States,2019-12-21,2018,TV-MA,89,min,Romance,5.5,701,2019,20.16,167.1
+s412,TV Show,Title 412,United States,2020-07-12,2015,PG,1,Seasons,Horror,8.7,161702,2020,24.99,203.7
+s413,TV Show,Title 413,United States,2013-09-01,2013,TV-PG,2,Seasons,Animation,6.1,38658,2013,4.37,44.4
+s414,Movie,Title 414,India,2014-05-27,2011,TV-PG,106,min,Thriller,7.6,96020,2014,5.5,57.4
+s415,Movie,Title 415,South Korea,2020-03-21,2015,R,95,min,Horror,5.8,8166,2020,24.99,203.7
+s416,Movie,Title 416,Canada,2017-07-03,2014,TV-MA,107,min,Action,7.8,8401,2017,11.69,110.6
+s417,TV Show,Title 417,United Kingdom,2023-12-14,2023,TV-14,2,Seasons,Animation,6.5,21468,2023,33.72,260.3
+s418,Movie,Title 418,Japan,2013-02-04,2012,PG-13,60,min,Animation,7.8,53327,2013,4.37,44.4
+s419,Movie,Title 419,South Korea,2015-01-19,2014,TV-PG,101,min,Action,7.4,3377,2015,6.78,74.8
+s420,Movie,Title 420,Pakistan,2014-07-04,2013,PG,115,min,Romance,5.4,31328,2014,5.5,57.4
+s421,Movie,Title 421,France,2009-09-19,2009,TV-PG,109,min,Animation,6.8,3171,2009,,
+s422,Movie,Title 422,India,2022-11-19,2021,TV-PG,85,min,Romance,5.9,28020,2022,31.62,230.7
+s423,Movie,Title 423,United Kingdom,2022-05-14,2021,PG,79,min,Drama,6.9,36848,2022,31.62,230.7
+s424,Movie,Title 424,India,2022-06-15,2019,PG-13,103,min,Action,6.4,8159,2022,31.62,230.7
+s425,Movie,Title 425,United States,2017-12-23,2016,TV-MA,78,min,Sci-Fi,3.6,37192,2017,11.69,110.6
+s426,Movie,Title 426,Spain,2021-02-01,2020,R,60,min,Drama,5.7,46304,2021,29.7,221.8
+s427,Movie,Title 427,Germany,2023-12-08,2023,TV-14,100,min,Action,6.0,17685,2023,33.72,260.3
+s428,Movie,Title 428,Japan,2022-08-08,2022,TV-MA,87,min,Romance,5.9,12341,2022,31.62,230.7
+s429,Movie,Title 429,India,2011-12-20,2011,PG-13,102,min,Horror,8.6,32457,2011,,
+s430,Movie,Title 430,United States,2015-04-07,2014,R,94,min,Horror,5.1,63559,2015,6.78,74.8
+s431,TV Show,Title 431,United States,2020-09-06,2015,R,3,Seasons,Crime,6.6,1016350,2020,24.99,203.7
+s432,Movie,Title 432,United States,2018-08-17,2017,TV-PG,84,min,Comedy,6.3,87389,2018,15.79,139.3
+s433,Movie,Title 433,India,2017-02-12,2016,R,71,min,Crime,7.8,9879,2017,11.69,110.6
+s434,TV Show,Title 434,Germany,2023-10-03,2023,TV-PG,1,Seasons,Documentary,8.0,12877,2023,33.72,260.3
+s435,Movie,Title 435,India,2022-03-12,2022,TV-PG,101,min,Thriller,7.7,39406,2022,31.62,230.7
+s436,Movie,Title 436,Japan,2012-10-13,2011,TV-MA,87,min,Horror,7.9,14739,2012,,
+s437,Movie,Title 437,Canada,2016-11-06,2013,TV-14,80,min,Animation,7.3,261719,2016,8.83,93.8
+s438,Movie,Title 438,United States,2011-08-20,2010,PG,100,min,Action,8.4,20018,2011,,
+s439,TV Show,Title 439,Spain,2018-09-17,2018,TV-PG,2,Seasons,Thriller,5.6,36826,2018,15.79,139.3
+s440,Movie,Title 440,India,2018-08-16,2015,PG-13,119,min,Sci-Fi,8.1,492611,2018,15.79,139.3
+s441,Movie,Title 441,United States,2018-05-08,2018,TV-14,106,min,Thriller,7.0,14417,2018,15.79,139.3
+s442,Movie,Title 442,Japan,2022-08-18,2017,TV-14,94,min,Sci-Fi,7.0,107057,2022,31.62,230.7
+s443,Movie,Title 443,France,2010-06-18,2010,PG,122,min,Documentary,8.2,19116,2010,,
+s444,TV Show,Title 444,United States,2006-11-25,2005,PG-13,2,Seasons,Horror,6.1,104442,2006,,
+s445,Movie,Title 445,United States,2015-02-15,2015,PG,80,min,Sci-Fi,6.2,60399,2015,6.78,74.8
+s446,TV Show,Title 446,Canada,2018-12-20,2018,TV-PG,1,Seasons,Crime,6.5,14183,2018,15.79,139.3
+s447,Movie,Title 447,France,2016-04-26,2014,PG,81,min,Action,8.6,14961,2016,8.83,93.8
+s448,Movie,Title 448,Japan,2023-03-11,2022,TV-PG,130,min,Documentary,7.9,13122,2023,33.72,260.3
+s449,Movie,Title 449,Pakistan,2020-09-22,2018,PG,99,min,Documentary,5.8,32507,2020,24.99,203.7
+s450,Movie,Title 450,Germany,2015-05-28,2010,TV-PG,123,min,Horror,6.3,28040,2015,6.78,74.8
+s451,Movie,Title 451,United States,2022-12-11,2017,PG-13,94,min,Action,7.4,12457,2022,31.62,230.7
+s452,TV Show,Title 452,Japan,2023-05-21,2020,TV-MA,1,Seasons,Action,5.3,25633,2023,33.72,260.3
+s453,Movie,Title 453,India,2023-12-09,2023,TV-PG,79,min,Comedy,6.1,40810,2023,33.72,260.3
+s454,TV Show,Title 454,India,2017-01-28,2016,TV-PG,2,Seasons,Sci-Fi,7.2,39617,2017,11.69,110.6
+s455,Movie,Title 455,Mexico,2020-09-13,2019,PG-13,122,min,Romance,7.3,16489,2020,24.99,203.7
+s456,TV Show,Title 456,India,2023-05-11,2019,TV-14,1,Seasons,Documentary,8.9,18785,2023,33.72,260.3
+s457,Movie,Title 457,France,2013-11-25,2011,PG,122,min,Sci-Fi,6.7,1624,2013,4.37,44.4
+s458,Movie,Title 458,United States,2023-03-15,2020,TV-MA,89,min,Sci-Fi,6.7,32806,2023,33.72,260.3
+s459,Movie,Title 459,Pakistan,2017-03-21,2016,R,114,min,Thriller,6.3,40771,2017,11.69,110.6
+s460,Movie,Title 460,South Korea,2015-05-03,2014,R,114,min,Comedy,7.5,7168,2015,6.78,74.8
+s461,Movie,Title 461,United States,2023-11-10,2021,TV-PG,89,min,Action,7.7,34226,2023,33.72,260.3
+s462,Movie,Title 462,South Korea,2023-12-04,2023,PG,95,min,Horror,6.4,21519,2023,33.72,260.3
+s463,Movie,Title 463,Japan,2014-09-22,2014,TV-MA,115,min,Action,5.0,6220,2014,5.5,57.4
+s464,Movie,Title 464,Spain,2013-07-23,2010,PG-13,119,min,Romance,8.7,19431,2013,4.37,44.4
+s465,Movie,Title 465,United States,2015-02-04,2015,R,101,min,Horror,8.1,7238,2015,6.78,74.8
+s466,Movie,Title 466,India,2018-03-21,2017,TV-PG,119,min,Action,7.4,27653,2018,15.79,139.3
+s467,Movie,Title 467,United States,2023-11-06,2021,TV-MA,60,min,Crime,7.5,10047,2023,33.72,260.3
+s468,Movie,Title 468,Germany,2006-10-22,2006,TV-MA,110,min,Action,8.3,18677,2006,,
+s469,TV Show,Title 469,France,2020-10-24,2020,TV-MA,4,Seasons,Action,8.6,106712,2020,24.99,203.7
+s470,Movie,Title 470,Spain,2023-04-09,2023,TV-PG,114,min,Romance,6.9,3221,2023,33.72,260.3
+s471,Movie,Title 471,Japan,2016-10-10,2014,TV-PG,83,min,Crime,9.2,17835,2016,8.83,93.8
+s472,Movie,Title 472,United States,2021-10-17,2016,PG-13,111,min,Documentary,6.8,168393,2021,29.7,221.8
+s473,TV Show,Title 473,United Kingdom,2013-02-08,2012,TV-MA,2,Seasons,Thriller,7.0,9036,2013,4.37,44.4
+s474,Movie,Title 474,Brazil,2009-01-12,2009,R,87,min,Animation,6.8,13158,2009,,
+s475,Movie,Title 475,India,2017-09-22,2012,PG-13,71,min,Crime,6.7,3620,2017,11.69,110.6
+s476,TV Show,Title 476,United States,2023-05-07,2019,PG,1,Seasons,Crime,6.9,3831,2023,33.72,260.3
+s477,TV Show,Title 477,South Korea,2019-09-25,2014,TV-MA,1,Seasons,Documentary,6.0,32306,2019,20.16,167.1
+s478,Movie,Title 478,South Korea,2023-09-20,2022,PG-13,62,min,Comedy,6.9,18175,2023,33.72,260.3
+s479,Movie,Title 479,United Kingdom,2020-04-26,2019,PG-13,104,min,Comedy,6.0,15019,2020,24.99,203.7
+s480,Movie,Title 480,,2013-11-22,2012,TV-PG,121,min,Crime,6.8,215653,2013,4.37,44.4
+s481,Movie,Title 481,Canada,2018-04-02,2015,PG-13,85,min,Horror,5.1,2530,2018,15.79,139.3
+s482,Movie,Title 482,United Kingdom,2009-10-02,2008,R,105,min,Comedy,7.4,3302,2009,,
+s483,Movie,Title 483,United States,2023-12-05,2020,TV-PG,90,min,Action,7.0,152461,2023,33.72,260.3
+s484,Movie,Title 484,United Kingdom,2021-12-09,2020,PG-13,94,min,Romance,5.8,1665,2021,29.7,221.8
+s485,Movie,Title 485,Canada,2015-02-25,2012,PG,95,min,Documentary,5.7,18816,2015,6.78,74.8
+s486,Movie,Title 486,,2017-05-23,2016,TV-14,95,min,Documentary,6.1,26967,2017,11.69,110.6
+s487,Movie,Title 487,United Kingdom,2019-01-16,2018,TV-14,78,min,Sci-Fi,8.4,19568,2019,20.16,167.1
+s488,Movie,Title 488,France,2016-10-22,2016,TV-PG,114,min,Documentary,7.1,69131,2016,8.83,93.8
+s489,Movie,Title 489,United States,2020-01-08,2017,PG,87,min,Animation,7.2,5583,2020,24.99,203.7
+s490,Movie,Title 490,United States,2017-01-18,2016,TV-PG,99,min,Action,6.6,18878,2017,11.69,110.6
+s491,TV Show,Title 491,India,2007-12-11,2006,R,1,Seasons,Thriller,6.2,24622,2007,,
+s492,TV Show,Title 492,South Korea,2018-01-06,2016,PG-13,1,Seasons,Animation,5.7,100594,2018,15.79,139.3
+s493,TV Show,Title 493,Brazil,2011-05-25,2011,R,5,Seasons,Comedy,7.9,36777,2011,,
+s494,Movie,Title 494,United States,2014-04-10,2012,TV-14,135,min,Sci-Fi,5.5,66368,2014,5.5,57.4
+s495,TV Show,Title 495,India,2023-08-25,2021,PG-13,2,Seasons,Sci-Fi,6.1,117120,2023,33.72,260.3
+s496,TV Show,Title 496,United States,2016-07-01,2014,PG-13,3,Seasons,Thriller,7.1,30103,2016,8.83,93.8
+s497,Movie,Title 497,Pakistan,2018-01-25,2015,TV-PG,116,min,Drama,7.7,2702,2018,15.79,139.3
+s498,Movie,Title 498,United States,2023-09-08,2022,TV-MA,66,min,Documentary,7.9,85139,2023,33.72,260.3
+s499,Movie,Title 499,Canada,2010-02-02,2010,PG-13,91,min,Action,5.6,17019,2010,,
+s500,TV Show,Title 500,United Kingdom,2016-12-03,2014,TV-14,1,Seasons,Romance,7.7,106124,2016,8.83,93.8
